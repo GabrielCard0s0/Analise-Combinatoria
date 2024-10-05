@@ -54,5 +54,5 @@ while True:
 
     except ValueError:
         print("-"*50)
-        print("Entrada inválida. Por favor, insira um número.")
+        print("Por favor, insira um número inteiro válido.")
         print("-"*50)
